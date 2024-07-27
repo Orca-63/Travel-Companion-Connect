@@ -2,7 +2,8 @@
 It is a website that facilitates connecting travelers with potential travel companions.The platform allows users to add travel plans, specifying details such as travel type, destination, availability, and personal information.
 
 # Home Page:
-![Screenshot 2024-07-23 205929](https://github.com/user-attachments/assets/31f63e2a-fa5c-4435-84d3-750edac6d04f)
+![Screenshot 2024-07-23 205929](https://github.com/user-attachments/assets/3be30d12-e69d-4f1c-bc34-042286abde46)
+
 ![Screenshot 2024-07-23 205952(1)](https://github.com/user-attachments/assets/30e0bc0c-010e-4cd1-8ca3-b1f0f84d931f)
 
 # Travel Plan detailed section:
