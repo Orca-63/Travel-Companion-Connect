@@ -1,5 +1,5 @@
 # Travel Companion Connect
-It is a website that facilitates connecting travelers with potential travel companions.The platform allows users to add travel plans, specifying details such as travel type, destination, availability, and personal information.
+It is a website that facilitates connecting travelers with potential travel companions.The platform allows users to add travel plans, specifying details such as travel type, destination, availability, and personal information.Users can also edit and delete any travel plans. 
 
 # Home Page:
 ![Screenshot 2024-07-23 205929](https://github.com/user-attachments/assets/3be30d12-e69d-4f1c-bc34-042286abde46)
