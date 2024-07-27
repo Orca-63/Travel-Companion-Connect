@@ -1,0 +1,176 @@
+nav a {
+    color: #ffffff;
+
+}
+
+nav a:hover {
+
+    border-radius: 5px;
+
+}
+
+
+section.hero {
+    background-color: #6cd9cc;
+
+    color: #ffffff;
+
+    padding: 80px 0;
+
+    text-align: center;
+
+}
+
+section.hero h1 {
+    font-size: 3rem;
+
+    margin-bottom: 20px;
+
+}
+
+section.hero p {
+    font-size: 1.5rem;
+
+}
+
+section:nth-child(4) {
+    background-color: #ffe0f0;
+
+}
+
+section:nth-child(4) h2 {
+    color: #ff6090;
+
+}
+
+
+section.find-buddy {
+    background-color: #6d5bff;
+
+    color: #ffffff;
+
+    padding: 80px 0;
+
+}
+
+section.find-buddy h2 {
+    color: #ffffff;
+
+    margin-bottom: 40px;
+
+}
+
+
+section:nth-child(7) .solo-travel {
+    background-color: #6cd9cc;
+
+}
+
+section:nth-child(7) .group-trips {
+    background-color: #ffab91;
+
+}
+
+section:nth-child(7) h3 {
+    color: #6d5bff;
+
+    margin-bottom: 20px;
+
+}
+
+
+section:nth-child(8) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+section:nth-child(8) .featured-box {
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+
+}
+
+section:nth-child(8) h3 {
+    color: #6d5bff;
+
+}
+
+section:nth-child(8) p {
+    color: #808080;
+
+}
+
+section.view-all-plans a.rounded-lg {
+    border-radius: 9999px;
+
+    background-image: linear-gradient(to right, #6d5bff, #ff6090);
+
+    background-size: 200% auto;
+    transition: background-position 0.3s ease;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+section.view-all-plans a.rounded-lg:hover {
+    background-position: right center;
+
+    filter: brightness(110%);
+
+}
+
+
+section:nth-child(8) .text-starting {
+    text-align: justify;
+
+}
+
+a.rounded-lg {
+    border-radius: 9999px;
+
+    background-image: linear-gradient(to right, #6d5bff, #ff6090);
+
+    background-size: 200% auto;
+    transition: background-position 0.3s ease;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a.rounded-lg:hover {
+    background-position: right center;
+
+    filter: brightness(110%);
+
+}
+
+a.rounded-xl {
+    border-radius: 9999px;
+
+    background-image: linear-gradient(to right, #6d5bff, #ff6090);
+
+    background-size: 200% auto;
+    transition: background-position 0.3s ease;
+    color: white;
+
+}
+
+a.rounded-xl:hover {
+    background-position: right center;
+
+    filter: brightness(110%);
+
+}
+
+
+
+.h-10 {
+    height: 4rem;
+}
