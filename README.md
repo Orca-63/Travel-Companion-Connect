@@ -1,3 +1,7 @@
+# Travel Companion Connect
+It is a website that facilitates connecting travelers with potential travel companions.The platform allows users to add travel plans, specifying details such as travel type, destination, availability, and personal information.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
